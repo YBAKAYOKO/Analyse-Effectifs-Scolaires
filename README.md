@@ -1,7 +1,7 @@
 ### Analyse des Effectifs Scolaires en France
 
 ## Objectif du projet
-Ce projet consiste en l'analyse et la visualisation des effectifs scolaires à l'échelle nationale. L'enjeu est de transformer un jeu de données brutes en un tableau de bord décisionnel, permettant d'identifier rapidement les disparités régionales et sectorielles.
+Ce projet consiste en l'analyse et la visualisation des effectifs scolaires à l'échelle nationale. Pour cette étude, les données brutes ont été directement extraites et importées depuis le portail Open Data du gouvernement français (data.gouv.fr). L'enjeu est de transformer ces données en un tableau de bord décisionnel, permettant d'identifier rapidement les disparités régionales et sectorielles.
 
 ## Méthodologie et Processus
 Le projet a été structuré autour des étapes clés de l'analyse de données :
