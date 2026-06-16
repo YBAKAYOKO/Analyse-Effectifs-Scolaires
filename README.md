@@ -17,6 +17,8 @@ Conception d'un dashboard interactif sous Excel.
 Utilisation de segments (Slicers) pour permettre une exploration dynamique.
 
 Application des principes de hiérarchie visuelle pour faciliter la lecture des indicateurs clés (KPIs).
+<img width="1750" height="743" alt="Capture d’écran 2026-06-16 232110" src="https://github.com/user-attachments/assets/1eff02a4-a701-409a-b7e7-5f2394cf7a3d" />
+
 
 ## Fonctionnalités principales
 
